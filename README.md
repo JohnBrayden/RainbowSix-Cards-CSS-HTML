@@ -1,1 +1,3 @@
-# RainbowSix-Cards---CSS---HTML
+# RainbowSix Cards CSS - HTML
+
+**this project for who want to learn CSS**
